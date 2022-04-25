@@ -1,5 +1,7 @@
 # elog: testing context-variable log level using Koka effects
 
+> I turned this into a small [blog post](https://blog.michaeldresser.io/posts/2022-04-24_context-variable-log-level-koka-effects.html)
+
 I stumbled upon the [Koka](https://koka-lang.github.io/koka/doc/index.html)
 language recently and, after a conversation about effects, was inspired to try
 using it to make the log level of a call stack dynamic based on an argument.
